@@ -1,0 +1,13 @@
+title: Gallery
+fields:
+  title:
+    type: title
+    display: Title
+  content:
+    type: markdown
+    display: Content
+  images:
+    type: assets
+    display: Images
+    container: 380dc8d9-481c-4d18-9162-ecd5688f98a8
+    folder: img

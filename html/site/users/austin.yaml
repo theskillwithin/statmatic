@@ -1,0 +1,10 @@
+---
+id: b39a2de0-e8cb-4609-b320-25b02ce00039
+roles:
+  - d32e14fb-08c9-44c2-aaf8-21200852bafd
+first_name: Austin
+last_name: Peterson
+email: austin@brandastic.com
+password_hash: $2y$10$4Hc8PMCRKSLDhVVvR516X.vAUtbS0x7eGdq1jIgqAfK1Smj7KsBMu
+---
+test
